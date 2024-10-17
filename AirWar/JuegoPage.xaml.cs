@@ -49,6 +49,9 @@ namespace AirWar
             MapaLayout.Children.Add(linea);
         }
 
+
+
+
         // Método para agregar hangares aleatoriamente en el rango de 1920x800
         private void AgregarHangar()
         {
@@ -70,6 +73,9 @@ namespace AirWar
             MapaLayout.Children.Add(hangar);
         }
 
+
+
+
         // Método para inicializar el arma que se moverá debajo de la línea usando una imagen
         private void InicializarArma()
         {
@@ -85,12 +91,20 @@ namespace AirWar
             MapaLayout.Children.Add(arma);
         }
 
+
+
+
+
         // Mover la batería hacia la izquierda
         private void OnMoverIzquierdaClicked(object sender, EventArgs e)
         {
             posicionBateria = Math.Max(posicionBateria - 0.05, 0); // Mueve la batería 5% a la izquierda
             ActualizarPosicionArma();
         }
+
+
+
+
 
         // Mover la batería hacia la derecha
         private void OnMoverDerechaClicked(object sender, EventArgs e)
@@ -99,11 +113,20 @@ namespace AirWar
             ActualizarPosicionArma();
         }
 
+
+
+
+
         // Actualiza la posición del arma en la interfaz
         private void ActualizarPosicionArma()
         {
             AbsoluteLayout.SetLayoutBounds(arma, new Rect(posicionBateria, 0.95, 100, 50)); // Actualiza la posición del arma
         }
+
+
+
+
+
 
         // Lógica para disparar
         private void OnDispararClicked(object sender, EventArgs e)

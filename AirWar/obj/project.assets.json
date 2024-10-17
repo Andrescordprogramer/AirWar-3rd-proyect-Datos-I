@@ -33055,11 +33055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deiler\\source\\repos\\AirWar\\AirWar.csproj",
+      "projectUniqueName": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\AirWar.csproj",
       "projectName": "AirWar",
-      "projectPath": "C:\\Users\\Deiler\\source\\repos\\AirWar\\AirWar.csproj",
+      "projectPath": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\AirWar.csproj",
       "packagesPath": "C:\\Users\\Deiler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deiler\\source\\repos\\AirWar\\obj\\",
+      "outputPath": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

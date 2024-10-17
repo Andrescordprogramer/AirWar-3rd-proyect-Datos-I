@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XT4Kj7Cs41Y=",
+  "dgSpecHash": "xr2fjwUGf30=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deiler\\source\\repos\\AirWar\\AirWar.csproj",
+  "projectFilePath": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\AirWar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deiler\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Deiler\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Deiler\\source\\repos\\AirWar\\",
+  "WorkspaceRootPath": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\source\\repos\\airwar\\juegopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:juegopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\source\\repos\\airwar\\juegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\documents\\tec\\datos 1\\proyecto 3\\airwar-3rd-proyect-datos-i\\airwar\\juegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:juegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\source\\repos\\airwar\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\documents\\tec\\datos 1\\proyecto 3\\airwar-3rd-proyect-datos-i\\airwar\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\documents\\tec\\datos 1\\proyecto 3\\airwar-3rd-proyect-datos-i\\airwar\\juegopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:juegopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,38 +34,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JuegoPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Deiler\\source\\repos\\AirWar\\JuegoPage.xaml.cs",
-              "RelativeDocumentMoniker": "JuegoPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Deiler\\source\\repos\\AirWar\\JuegoPage.xaml.cs",
-              "RelativeToolTip": "JuegoPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:09:17.785Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JuegoPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Deiler\\source\\repos\\AirWar\\JuegoPage.xaml",
-              "RelativeDocumentMoniker": "JuegoPage.xaml",
-              "ToolTip": "C:\\Users\\Deiler\\source\\repos\\AirWar\\JuegoPage.xaml",
-              "RelativeToolTip": "JuegoPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T02:09:08.708Z",
+              "Title": "JuegoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\JuegoPage.xaml.cs",
+              "RelativeDocumentMoniker": "JuegoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\JuegoPage.xaml.cs*",
+              "RelativeToolTip": "JuegoPage.xaml.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:09:17.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "JuegoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\JuegoPage.xaml",
+              "RelativeDocumentMoniker": "JuegoPage.xaml",
+              "ToolTip": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\JuegoPage.xaml",
+              "RelativeToolTip": "JuegoPage.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T02:09:08.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Deiler\\source\\repos\\AirWar\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\Deiler\\source\\repos\\AirWar\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-16T22:10:49.771Z"
             }
