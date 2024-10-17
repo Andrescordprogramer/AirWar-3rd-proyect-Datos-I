@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.11.35312.102
+VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirWAR", "AirWAR\AirWAR.csproj", "{ECECC7D2-47B0-4E77-86E8-2D74E115CACB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirWar", "AirWar.csproj", "{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ECECC7D2-47B0-4E77-86E8-2D74E115CACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ECECC7D2-47B0-4E77-86E8-2D74E115CACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ECECC7D2-47B0-4E77-86E8-2D74E115CACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ECECC7D2-47B0-4E77-86E8-2D74E115CACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CBC2BE88-EC32-416D-942E-9158959C8853}
+		SolutionGuid = {08468617-8309-4707-840F-43AF95B232E8}
 	EndGlobalSection
 EndGlobal

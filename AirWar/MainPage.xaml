@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AirWar.MainPage"
+             NavigationPage.HasNavigationBar="False">
+    <!-- Esto oculta la barra de navegación -->
+
+    <!-- Imagen de fondo -->
+    <ContentPage.BackgroundImageSource>
+        <OnPlatform x:TypeArguments="ImageSource">
+            <On Platform="Android" Value="imagenfondo.png" />
+            <On Platform="iOS" Value="imagenfondo.png" />
+            <On Platform="MacCatalyst" Value="imagenfondo.png" />
+            <On Platform="WinUI" Value="imagenfondo.png" />
+        </OnPlatform>
+    </ContentPage.BackgroundImageSource>
+
+    <ContentPage.Content>
+        <Grid VerticalOptions="Center" HorizontalOptions="Center">
+
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="20">
+
+                <!-- Logo o imagen del juego -->
+                <Image Source="logo.png"
+                       WidthRequest="150"
+                       HeightRequest="150"
+                       HorizontalOptions="Center"/>
+
+                <!-- Título del juego con estilo -->
+                <Label Text="AirWar"
+                       FontSize="48"
+                       FontAttributes="Bold"
+                       TextColor="White"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+
+                <!-- Botón para iniciar el juego -->
+                <Button Text="Iniciar Juego"
+                        FontSize="Medium"
+                        BackgroundColor="#008CBA"
+                        TextColor="White"
+                        CornerRadius="20"
+                        WidthRequest="200"
+                        HeightRequest="60"
+                        Clicked="OnIniciarJuegoClicked"/>
+
+                <!-- Botón para salir -->
+                <Button Text="Salir"
+                        FontSize="Medium"
+                        BackgroundColor="#f44336"
+                        TextColor="White"
+                        CornerRadius="20"
+                        WidthRequest="200"
+                        HeightRequest="60"
+                        Clicked="OnSalirClicked"/>
+
+            </StackLayout>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

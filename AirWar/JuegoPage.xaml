@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AirWar.JuegoPage">
+
+    <ContentPage.Content>
+        <Grid>
+
+            <!-- AbsoluteLayout para el mapa, hangares y la línea donde se moverá el arma -->
+            <AbsoluteLayout x:Name="MapaLayout" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                <!-- Imagen del mapa -->
+                <Image Source="mapamundo.png" 
+                       Aspect="AspectFill"
+                       AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                       AbsoluteLayout.LayoutFlags="All" />
+
+                <!-- Línea negra debajo del mapa -->
+                <BoxView Color="Black"
+                         HeightRequest="5"
+                         AbsoluteLayout.LayoutBounds="0, 1, 1, 5"
+                         AbsoluteLayout.LayoutFlags="All" />
+            </AbsoluteLayout>
+
+            <!-- Controles para mover la batería antiaérea -->
+            <StackLayout VerticalOptions="End" HorizontalOptions="Center" Orientation="Horizontal" Spacing="10">
+                <Button Text="Mover Izquierda" Clicked="OnMoverIzquierdaClicked" />
+                <Button Text="Disparar" Clicked="OnDispararClicked" />
+                <Button Text="Mover Derecha" Clicked="OnMoverDerechaClicked" />
+            </StackLayout>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
+
