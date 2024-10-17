@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirWar", "AirWar.csproj", "{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirWar", "AirWar.csproj", "{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

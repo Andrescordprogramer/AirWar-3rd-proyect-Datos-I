@@ -1,1 +1,1 @@
-C:\Users\Deiler\Documents\TEC\Datos 1\Proyecto 3\AirWar-3rd-proyect-Datos-I\AirWar\AirWar.csproj;x64
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\AirWar.csproj;x64

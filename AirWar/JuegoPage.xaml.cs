@@ -51,7 +51,6 @@ namespace AirWar
 
 
 
-
         // Método para agregar hangares aleatoriamente en el rango de 1920x800
         private void AgregarHangar()
         {

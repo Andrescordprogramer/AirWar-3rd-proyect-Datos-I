@@ -14,11 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirWar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+69946c5d8a6e03bec9834f1a63b3480f5a0e0e84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ef0e6a3c208ef863be7efb99b3c9a3b73b56e4ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirWar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirWar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS18.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS17.5")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS11.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
