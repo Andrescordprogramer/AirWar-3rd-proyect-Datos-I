@@ -202,20 +202,11 @@
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arma.scale-100.png">
       <PackagePath>arma.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arma5.scale-100.png">
+      <PackagePath>arma5.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bala.scale-100.png">
+      <PackagePath>bala.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hangar.scale-100.jpg">
       <PackagePath>hangar.scale-100.jpg</PackagePath>
@@ -228,6 +219,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mapamundo.scale-100.png">
       <PackagePath>mapamundo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mapamundo7.scale-100.png">
+      <PackagePath>mapamundo7.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AirWar.deps.json">
       <PackagePath>AirWar.deps.json</PackagePath>

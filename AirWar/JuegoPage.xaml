@@ -6,7 +6,6 @@
     <ContentPage.Content>
         <Grid>
 
-            <!-- AbsoluteLayout para el mapa, hangares y la línea donde se moverá el arma -->
             <AbsoluteLayout x:Name="MapaLayout" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
                 <!-- Imagen del mapa -->
                 <Image Source="mapamundo.png" 
@@ -19,16 +18,22 @@
                          HeightRequest="5"
                          AbsoluteLayout.LayoutBounds="0, 1, 1, 5"
                          AbsoluteLayout.LayoutFlags="All" />
+
+                <!-- Cronometro -->
+                <Label x:Name="CronometroLabel"  Text="03:00" FontSize="Large" 
+                        AbsoluteLayout.LayoutBounds="0, 0, AutoSize, AutoSize" 
+                        AbsoluteLayout.LayoutFlags="PositionProportional" />
+                
             </AbsoluteLayout>
 
-            <!-- Controles para mover la batería antiaérea -->
+            <!-- Controles para mover la batería antiaérea y disparar -->
             <StackLayout VerticalOptions="End" HorizontalOptions="Center" Orientation="Horizontal" Spacing="10">
-                <Button Text="Mover Izquierda" Clicked="OnMoverIzquierdaClicked" />
-                <Button Text="Disparar" Clicked="OnDispararClicked" />
-                <Button Text="Mover Derecha" Clicked="OnMoverDerechaClicked" />
+
+                <!-- Detectar eventos de presionado y soltado -->
+                <Button Text="Disparar" Pressed="OnDispararPresionado" Released="OnDispararSoltado" />
+
             </StackLayout>
 
         </Grid>
     </ContentPage.Content>
 </ContentPage>
-

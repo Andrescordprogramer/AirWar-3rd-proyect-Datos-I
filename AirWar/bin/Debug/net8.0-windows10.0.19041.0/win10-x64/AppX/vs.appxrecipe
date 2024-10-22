@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-17T04:10:39.034</Modified>
+      <Modified>2024-10-22T10:19:46.006</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-10-17T04:10:38.946</Modified>
+      <Modified>2024-10-22T08:58:53.700</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AirWar.runtimeconfig.json">
       <PackagePath>AirWar.runtimeconfig.json</PackagePath>
-      <Modified>2024-10-17T04:10:38.897</Modified>
+      <Modified>2024-10-21T12:23:22.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AirWar.dll">
       <PackagePath>AirWar.dll</PackagePath>
-      <Modified>2024-10-17T04:10:38.686</Modified>
+      <Modified>2024-10-22T10:19:45.803</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AirWar.exe</PackagePath>
-      <Modified>2024-10-17T04:10:38.688</Modified>
+      <Modified>2024-10-22T10:19:45.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -84,231 +84,223 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-10-17T04:02:49.763</Modified>
+      <Modified>2024-10-22T08:06:21.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.755</Modified>
+      <Modified>2024-10-22T08:06:21.847</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.755</Modified>
+      <Modified>2024-10-22T08:06:21.847</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.755</Modified>
+      <Modified>2024-10-22T08:06:21.847</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.755</Modified>
+      <Modified>2024-10-22T08:06:21.847</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.755</Modified>
+      <Modified>2024-10-22T08:06:21.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.761</Modified>
+      <Modified>2024-10-22T08:06:21.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.760</Modified>
+      <Modified>2024-10-22T08:06:21.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.760</Modified>
+      <Modified>2024-10-22T08:06:21.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.760</Modified>
+      <Modified>2024-10-22T08:06:21.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.760</Modified>
+      <Modified>2024-10-22T08:06:21.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.761</Modified>
+      <Modified>2024-10-22T08:06:21.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.761</Modified>
+      <Modified>2024-10-22T08:06:21.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.761</Modified>
+      <Modified>2024-10-22T08:06:21.854</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.761</Modified>
+      <Modified>2024-10-22T08:06:21.854</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.761</Modified>
+      <Modified>2024-10-22T08:06:21.854</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.763</Modified>
+      <Modified>2024-10-22T08:06:21.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.763</Modified>
+      <Modified>2024-10-22T08:06:21.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.763</Modified>
+      <Modified>2024-10-22T08:06:21.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.762</Modified>
+      <Modified>2024-10-22T08:06:21.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.762</Modified>
+      <Modified>2024-10-22T08:06:21.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.762</Modified>
+      <Modified>2024-10-22T08:06:21.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.762</Modified>
+      <Modified>2024-10-22T08:06:21.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.761</Modified>
+      <Modified>2024-10-22T08:06:21.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.762</Modified>
+      <Modified>2024-10-22T08:06:21.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.762</Modified>
+      <Modified>2024-10-22T08:06:21.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.757</Modified>
+      <Modified>2024-10-22T08:06:21.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.757</Modified>
+      <Modified>2024-10-22T08:06:21.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.757</Modified>
+      <Modified>2024-10-22T08:06:21.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.756</Modified>
+      <Modified>2024-10-22T08:06:21.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.756</Modified>
+      <Modified>2024-10-22T08:06:21.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.758</Modified>
+      <Modified>2024-10-22T08:06:21.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.758</Modified>
+      <Modified>2024-10-22T08:06:21.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.758</Modified>
+      <Modified>2024-10-22T08:06:21.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.758</Modified>
+      <Modified>2024-10-22T08:06:21.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.757</Modified>
+      <Modified>2024-10-22T08:06:21.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.760</Modified>
+      <Modified>2024-10-22T08:06:21.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.760</Modified>
+      <Modified>2024-10-22T08:06:21.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.758</Modified>
+      <Modified>2024-10-22T08:06:21.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.758</Modified>
+      <Modified>2024-10-22T08:06:21.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.758</Modified>
+      <Modified>2024-10-22T08:06:21.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.756</Modified>
+      <Modified>2024-10-22T08:06:21.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.756</Modified>
+      <Modified>2024-10-22T08:06:21.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.756</Modified>
+      <Modified>2024-10-22T08:06:21.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.756</Modified>
+      <Modified>2024-10-22T08:06:21.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.755</Modified>
+      <Modified>2024-10-22T08:06:21.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arma.scale-100.png">
       <PackagePath>arma.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.754</Modified>
+      <Modified>2024-10-22T08:06:21.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.764</Modified>
+    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arma5.scale-100.png">
+      <PackagePath>arma5.scale-100.png</PackagePath>
+      <Modified>2024-10-22T08:06:21.845</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.764</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.764</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.763</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.763</Modified>
+    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bala.scale-100.png">
+      <PackagePath>bala.scale-100.png</PackagePath>
+      <Modified>2024-10-22T08:06:21.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hangar.scale-100.jpg">
       <PackagePath>hangar.scale-100.jpg</PackagePath>
-      <Modified>2024-10-17T04:02:49.753</Modified>
+      <Modified>2024-10-22T08:06:21.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\imagenfondo.scale-100.png">
       <PackagePath>imagenfondo.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.754</Modified>
+      <Modified>2024-10-22T08:06:21.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
       <PackagePath>logo.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.754</Modified>
+      <Modified>2024-10-22T08:06:21.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mapamundo.scale-100.png">
       <PackagePath>mapamundo.scale-100.png</PackagePath>
-      <Modified>2024-10-17T04:02:49.754</Modified>
+      <Modified>2024-10-22T08:06:21.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mapamundo7.scale-100.png">
+      <PackagePath>mapamundo7.scale-100.png</PackagePath>
+      <Modified>2024-10-22T08:06:21.845</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AirWar.deps.json">
       <PackagePath>AirWar.deps.json</PackagePath>
-      <Modified>2024-10-17T04:10:38.895</Modified>
+      <Modified>2024-10-21T12:23:22.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrés Cordero\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

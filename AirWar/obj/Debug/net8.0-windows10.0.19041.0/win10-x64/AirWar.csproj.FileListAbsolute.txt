@@ -517,11 +517,6 @@ C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Dato
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arma.scale-100.png
-C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
-C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
-C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
-C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
-C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hangar.scale-100.jpg
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\imagenfondo.scale-100.png
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png
@@ -552,3 +547,6 @@ C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Dato
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arma5.scale-100.png
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mapamundo7.scale-100.png
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\AirWar-3rd-proyect-Datos-I\AirWAR\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bala.scale-100.png

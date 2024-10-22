@@ -1,22 +1,40 @@
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Layouts;
 using System;
+using System.Diagnostics;
+using System.Threading.Tasks;
+using System.Timers;
+using Timer = System.Timers.Timer;
+using AirWar.Server;
+
 
 namespace AirWar
 {
     public partial class JuegoPage : ContentPage
     {
-        private double posicionBateria = 0;
+        private TcpServer tcpServer;
+        private Timer cronometro = new Timer(); // Cronómetro para el juego
+        private int segundosRestantes = 180; // Tiempo restante para el juego
+        private double posicionBateria = 0.5; // Posición inicial centrada
+        private double velocidadArma = 0.01;  // Velocidad del arma
+        private bool moviendoDerecha = true;  // Dirección del movimiento
         private Random random = new Random();
         private const double AnchoMaximo = 1920; // Ancho del área permitida
         private const double AltoMaximo = 400;   // Alto del área permitida
+        private Stopwatch presionadoCronometro = new Stopwatch(); // Para medir el tiempo que se presiona el botón
         private Image arma; // Representación del arma usando una imagen
+        private Image bala;
 
-        public JuegoPage()
+        public JuegoPage(TcpServer server)
         {
+            tcpServer = server;
             InitializeComponent();
             InicializarMapa(); // Inicializa el mapa con hangares y portaaviones
             InicializarArma();  // Inicializa el arma (batería antiaérea)
+            InicializarTimer(); // Inicializa el cronómetro
+
+            // Inicia el movimiento automático del arma
+            _ = MoverArmaContinuamente();
         }
 
         // Método para inicializar el mapa
@@ -49,8 +67,6 @@ namespace AirWar
             MapaLayout.Children.Add(linea);
         }
 
-
-
         // Método para agregar hangares aleatoriamente en el rango de 1920x800
         private void AgregarHangar()
         {
@@ -72,66 +88,153 @@ namespace AirWar
             MapaLayout.Children.Add(hangar);
         }
 
-
-
-
-        // Método para inicializar el arma que se moverá debajo de la línea usando una imagen
+        // Método para inicializar el arma
         private void InicializarArma()
         {
             arma = new Image
             {
-                Source = "arma.png", // Imagen del arma
-                WidthRequest = 100,  // Ajusta el tamaño según sea necesario
-                HeightRequest = 50
+                Source = "arma.png",
+                WidthRequest = 400,
+                HeightRequest = 100
             };
-            // Posiciona el arma sobre la línea
-            AbsoluteLayout.SetLayoutBounds(arma, new Rect(0.5, 0.95, 100, 50)); // Coordenadas iniciales
+            AbsoluteLayout.SetLayoutBounds(arma, new Rect(posicionBateria, 0.95, 100, 50));
             AbsoluteLayout.SetLayoutFlags(arma, AbsoluteLayoutFlags.PositionProportional);
             MapaLayout.Children.Add(arma);
         }
 
-
-
-
-
-        // Mover la batería hacia la izquierda
-        private void OnMoverIzquierdaClicked(object sender, EventArgs e)
+        // Mover el arma continuamente de izquierda a derecha
+        private async Task MoverArmaContinuamente()
         {
-            posicionBateria = Math.Max(posicionBateria - 0.05, 0); // Mueve la batería 5% a la izquierda
-            ActualizarPosicionArma();
+            while (true)
+            {
+                // Cambia la dirección si llega a los límites
+                if (posicionBateria >= 1)
+                {
+                    moviendoDerecha = false;
+                }
+                else if (posicionBateria <= 0)
+                {
+                    moviendoDerecha = true;
+                }
+
+                // Ajusta la posición en función de la dirección
+                if (moviendoDerecha)
+                {
+                    posicionBateria = Math.Min(posicionBateria + velocidadArma, 1);
+                }
+                else
+                {
+                    posicionBateria = Math.Max(posicionBateria - velocidadArma, 0);
+                }
+
+                // Actualiza la posición en la interfaz
+                ActualizarPosicionArma();
+                await Task.Delay(50); // Controla la velocidad del ciclo
+            }
         }
 
-
-
-
-
-        // Mover la batería hacia la derecha
-        private void OnMoverDerechaClicked(object sender, EventArgs e)
-        {
-            posicionBateria = Math.Min(posicionBateria + 0.05, 1); // Mueve la batería 5% a la derecha
-            ActualizarPosicionArma();
-        }
-
-
-
-
-
-        // Actualiza la posición del arma en la interfaz
+        // Actualiza la posición del arma
         private void ActualizarPosicionArma()
         {
-            AbsoluteLayout.SetLayoutBounds(arma, new Rect(posicionBateria, 0.95, 100, 50)); // Actualiza la posición del arma
+            AbsoluteLayout.SetLayoutBounds(arma, new Rect(posicionBateria, 0.95, 100, 50));
+        }
+
+        // Método para disparar la bala con una fuerza específica
+        public static void DispararRasp(int fuerzaDisparo)
+        {
+            return;
+        }
+
+        // Detectar cuándo se empieza a presionar el botón de disparo
+        private void OnDispararPresionado(object sender, EventArgs e)
+        {
+            presionadoCronometro.Restart(); // Reinicia el cronómetro
+        }
+
+        // Detectar cuándo se suelta el botón de disparo
+        private async void OnDispararSoltado(object sender, EventArgs e)
+        {
+            presionadoCronometro.Stop();
+            int tiempoPresionado = (int)presionadoCronometro.ElapsedMilliseconds; // Tiempo en milisegundos  
+            Disparar(tiempoPresionado);
+            if (tcpServer != null)
+            {
+                await tcpServer.EnviarMensaje("DisparoMau");
+            }
+            else
+            {
+                // Manejar el caso en que tcpServer es null
+                Console.WriteLine("tcpServer no está inicializado.");
+            }
+        }
+
+        // Método para disparar la bala con una velocidad basada en el tiempo presionado
+        private void Disparar(int tiempoPresionado)
+        {
+            // Crear la bala
+            var bala = new Image
+            {
+                Source = "bala.png",
+                WidthRequest = 40,
+                HeightRequest = 40
+            };
+
+            // Captura la posición X de la batería en el momento del disparo
+            double posicionXBala = posicionBateria;
+
+            // Posiciona la bala en el centro del arma
+            AbsoluteLayout.SetLayoutBounds(bala, new Rect(posicionXBala, 0.9, 20, 20));
+            AbsoluteLayout.SetLayoutFlags(bala, AbsoluteLayoutFlags.PositionProportional);
+            MapaLayout.Children.Add(bala);
+
+            // Convierte el tiempo presionado de milisegundos a segundos
+            double tiempoPresionadoSegundos = tiempoPresionado / 1000.0;
+
+            // Calcula la velocidad de la bala basada en el tiempo presionado (mayor tiempo, mayor velocidad)
+            double velocidadBala = 0.005 + (0.005 * tiempoPresionadoSegundos); // Ajusta la fórmula según sea necesario
+
+            // Mueve la bala hacia arriba
+            _ = MoverBala(bala, velocidadBala, posicionXBala);
         }
 
 
-
-
-
-
-        // Lógica para disparar
-        private void OnDispararClicked(object sender, EventArgs e)
+        // Mover la bala hacia arriba y eliminarla cuando salga de la pantalla
+        private async Task MoverBala(Image bala, double velocidad, double posicionXBala)
         {
-            // Implementa la lógica para disparar desde la batería
-            // Animación o movimiento de balas en el mapa
+            double posicionY = 0.9;
+
+            while (posicionY > -0.1) // La bala se elimina cuando sale de la pantalla
+            {
+                posicionY -= velocidad;
+                AbsoluteLayout.SetLayoutBounds(bala, new Rect(posicionXBala, posicionY, 20, 20));
+                await Task.Delay(50); // Controla la velocidad del ciclo
+            }
+
+            // Elimina la bala una vez que sale de la pantalla
+            MapaLayout.Children.Remove(bala);
+        }
+
+        private void InicializarTimer()
+        {
+            cronometro = new Timer(1000); // Intervalo de 1 segundo
+            cronometro.Elapsed += OnTimedEvent;
+            cronometro.Start();
+        }
+
+        private void OnTimedEvent(object sender, ElapsedEventArgs e)
+        {
+            segundosRestantes--;
+
+            Dispatcher.Dispatch(() =>
+            {
+                CronometroLabel.Text = TimeSpan.FromSeconds(segundosRestantes).ToString(@"mm\:ss");
+
+                if (segundosRestantes <= 0)
+                {
+                    //segundosRestantes.Stop();
+                    //Navigation.PushAsync(new FinalPage()); // aquí se redirige a la página final
+                }
+            });
         }
     }
 }
