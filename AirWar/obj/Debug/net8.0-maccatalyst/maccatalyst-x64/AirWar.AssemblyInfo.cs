@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirWar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b9b459fc3b9ea867d679038a2cecd99a4de88b35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+592aa37d31e0b7e4217140d40eaf9c2c025b6ad8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirWar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirWar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

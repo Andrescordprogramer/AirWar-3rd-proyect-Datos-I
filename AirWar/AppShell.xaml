@@ -7,9 +7,16 @@
     Shell.FlyoutBehavior="Disabled"
     Title="AirWar">
 
+    <!-- Ruta para la página de inicio -->
     <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
+
+    <!-- Ruta para la página del juego -->
+    <ShellContent
+        Title="Juego"
+        ContentTemplate="{DataTemplate local:JuegoPage}"
+        Route="JuegoPage" />
 
 </Shell>

@@ -1,46 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\",
+  "WorkspaceRootPath": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\andr\u00E9s cordero\\documents\\tec\\datos i\\proyectos\\airwar-3rd-proyect-datos-i\\airwar\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\documents\\tec\\datos 1\\proyecto 3\\airwar-3rd-proyect-datos-i\\airwar\\juego\\hangarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:juego\\hangarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\andr\u00E9s cordero\\documents\\tec\\datos i\\proyectos\\airwar-3rd-proyect-datos-i\\airwar\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\documents\\tec\\datos 1\\proyecto 3\\airwar-3rd-proyect-datos-i\\airwar\\juego\\rutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:juego\\rutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\andr\u00E9s cordero\\documents\\tec\\datos i\\proyectos\\airwar-3rd-proyect-datos-i\\airwar\\juegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:juegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\documents\\tec\\datos 1\\proyecto 3\\airwar-3rd-proyect-datos-i\\airwar\\juego\\zonaprohibidamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:juego\\zonaprohibidamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\andr\u00E9s cordero\\documents\\tec\\datos i\\proyectos\\airwar-3rd-proyect-datos-i\\airwar\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\documents\\tec\\datos 1\\proyecto 3\\airwar-3rd-proyect-datos-i\\airwar\\juego\\juegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:juego\\juegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\andr\u00E9s cordero\\documents\\tec\\datos i\\proyectos\\airwar-3rd-proyect-datos-i\\airwar\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\andr\u00E9s cordero\\documents\\tec\\datos i\\proyectos\\airwar-3rd-proyect-datos-i\\airwar\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\andr\u00E9s cordero\\documents\\tec\\datos i\\proyectos\\airwar-3rd-proyect-datos-i\\airwar\\juegopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:juegopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\andr\u00E9s cordero\\documents\\tec\\datos i\\proyectos\\airwar-3rd-proyect-datos-i\\airwar\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\andr\u00E9s cordero\\documents\\tec\\datos i\\proyectos\\airwar-3rd-proyect-datos-i\\airwar\\airwar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:airwar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\andr\u00E9s cordero\\documents\\tec\\datos i\\proyectos\\airwar-3rd-proyect-datos-i\\airwar\\airwarobjects\\hangar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:airwarobjects\\hangar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|c:\\users\\deiler\\documents\\tec\\datos 1\\proyecto 3\\airwar-3rd-proyect-datos-i\\airwar\\juego\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD27A7B0-EB92-4DF3-AD64-4CE133A63756}|AirWar.csproj|solutionrelative:juego\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +30,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 239,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -66,132 +54,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T09:30:13.74Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\Juego\\Nodo.cs",
+              "RelativeDocumentMoniker": "Juego\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\Juego\\Nodo.cs",
+              "RelativeToolTip": "Juego\\Nodo.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:16:08.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\Server\\Server.cs",
-              "RelativeDocumentMoniker": "Server\\Server.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\Server\\Server.cs",
-              "RelativeToolTip": "Server\\Server.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Rutas.cs",
+              "DocumentMoniker": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\Juego\\Rutas.cs",
+              "RelativeDocumentMoniker": "Juego\\Rutas.cs",
+              "ToolTip": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\Juego\\Rutas.cs",
+              "RelativeToolTip": "Juego\\Rutas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:02:40.77Z",
+              "WhenOpened": "2024-11-13T10:10:07.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "JuegoPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\JuegoPage.xaml.cs",
-              "RelativeDocumentMoniker": "JuegoPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\JuegoPage.xaml.cs",
-              "RelativeToolTip": "JuegoPage.xaml.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAQwJ4AAAAnAAAAAAAAAA==",
+              "Title": "ZonaProhibidaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\Juego\\ZonaProhibidaManager.cs",
+              "RelativeDocumentMoniker": "Juego\\ZonaProhibidaManager.cs",
+              "ToolTip": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\Juego\\ZonaProhibidaManager.cs",
+              "RelativeToolTip": "Juego\\ZonaProhibidaManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:09:17.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:34:15.676Z",
+              "WhenOpened": "2024-11-13T07:25:33.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\AppShell.xaml.cs",
-              "RelativeToolTip": "AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Title": "JuegoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\Juego\\JuegoPage.xaml.cs",
+              "RelativeDocumentMoniker": "Juego\\JuegoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\Juego\\JuegoPage.xaml.cs*",
+              "RelativeToolTip": "Juego\\JuegoPage.xaml.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:52:39.041Z",
+              "WhenOpened": "2024-11-13T07:04:33.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\MainPage.xaml.cs",
-              "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "HangarManager.cs",
+              "DocumentMoniker": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\Juego\\HangarManager.cs",
+              "RelativeDocumentMoniker": "Juego\\HangarManager.cs",
+              "ToolTip": "C:\\Users\\Deiler\\Documents\\TEC\\Datos 1\\Proyecto 3\\AirWar-3rd-proyect-Datos-I\\AirWar\\Juego\\HangarManager.cs*",
+              "RelativeToolTip": "Juego\\HangarManager.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwF4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:19:58.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Hangar.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\AirWarObjects\\Hangar.cs",
-              "RelativeDocumentMoniker": "AirWarObjects\\Hangar.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\AirWarObjects\\Hangar.cs",
-              "RelativeToolTip": "AirWarObjects\\Hangar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:08:26.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AirWar.csproj",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\AirWar.csproj",
-              "RelativeDocumentMoniker": "AirWar.csproj",
-              "ToolTip": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\AirWar.csproj",
-              "RelativeToolTip": "AirWar.csproj",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-17T04:07:42.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "JuegoPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\JuegoPage.xaml",
-              "RelativeDocumentMoniker": "JuegoPage.xaml",
-              "ToolTip": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\JuegoPage.xaml",
-              "RelativeToolTip": "JuegoPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T02:09:08.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\Andr\u00E9s Cordero\\Documents\\TEC\\Datos I\\Proyectos\\AirWar-3rd-proyect-Datos-I\\AirWAR\\MainPage.xaml",
-              "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T22:10:49.771Z",
+              "WhenOpened": "2024-11-13T06:58:46.804Z",
               "EditorCaption": ""
             }
           ]
